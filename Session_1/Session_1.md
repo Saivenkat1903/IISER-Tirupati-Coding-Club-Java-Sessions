@@ -1,5 +1,5 @@
 # Session 1: General Introduction to Java
-Session 1 held on January 24th 2023 10:30pm - 12:00pm 
+Session 1 held on January 23rd 2023 10:30pm - 12:00pm 
 
 ## Why Java?
 Java is useful because it is a write once, run anywhere programming language. <br>
