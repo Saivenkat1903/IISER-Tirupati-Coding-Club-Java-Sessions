@@ -27,7 +27,7 @@ Head first Java - Highly recommended, very fun book
 
 ## Goals Achieved this session
 The goals achieved this session are; <br> 
-- [ x ] Set up a Java Development Kit (JDK) on your computer.
+- [x] Set up a Java Development Kit (JDK) on your computer.
 - [x] Write your first Java code (_Hello world_ for the nth time)
 - [x] Explain what Java is doing in the background. Understand the Java compiler.
 - [x] Understanding what is a **class**, **method** and **statement**.  
